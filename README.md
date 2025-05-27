@@ -1,15 +1,15 @@
 # 🌟 Olá, sou Miguel José! 👋
 
-Sou um entusiasta da programação e do desenvolvimento de software, sempre buscando aprender e criar soluções inovadoras. Meu foco principal é **[sua área de interesse principal, ex: desenvolvimento web, ciência de dados, mobile]** e estou animado para colaborar em projetos desafiadores!
+Sou um entusiasta da programação e do desenvolvimento de software, sempre buscando aprender e criar soluções inovadoras. Meu foco principal é **Backend(com python, js e java), frontend(Tailwinds, react)** e estou animado para colaborar em projetos desafiadores!
 
 ---
 
 ### 🚀 O Que Estou Fazendo Agora
 
-* 🔭 Atualmente trabalhando em **[descreva um projeto ou área de estudo atual]**.
-* 🌱 Sempre aprendendo sobre **[nova tecnologia/conceito, ex: Inteligência Artificial, React Native, Rust]**.
-* 👯 Aberto a colaborações em projetos de **[tipo de projeto, ex: código aberto, Python, JavaScript]**.
-* 🤔 Procurando ajuda com **[algum desafio específico, se houver]**.
+* 🔭 Atualmente trabalhando em **Consulte Gestão**.
+* 🌱 Sempre aprendendo sobre **Sobre automação e desenvolvimento de api**.
+* 👯 Aberto a colaborações em projetos de **Codigo aberto**.
+
 
 ---
 
@@ -43,15 +43,15 @@ Aqui estão algumas das minhas contribuições e estatísticas no GitHub. Elas s
 
 Sinta-se à vontade para entrar em contato:
 
-* **LinkedIn:** [Seu perfil do LinkedIn](https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN/)
-* **Email:** [seu.email@example.com](mailto:seu.email@example.com)
-* **Website/Portfólio (se tiver):** [https://seusite.com](https://seusite.com)
+* **LinkedIn:** [Seu perfil do LinkedIn](https://www.linkedin.com/in/migueljose28/)
+* **Email:** [seu.email@example.com](mailto:miguelneto275@gmail.com)
+* **Website/Portfólio (se tiver):** [https://seusite.com]()
 
 ---
 
 ### 😄 Curiosidades
 
-* ⚡ Fato divertido: **[Uma curiosidade sobre você, ex: "Sou um entusiasta de café e música eletrônica."]**
-* 💬 Pergunte-me sobre: **[Tópico que você gosta de discutir, ex: "melhores práticas de código, automação, ou games retrô!"]**
+* ⚡ Fato divertido: **Me envolvo em projeto open-source e estou desenvolvendo uma impressora 3d**
+
 
 ---
