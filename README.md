@@ -6,8 +6,8 @@ Sou um entusiasta da programação e do desenvolvimento de software, sempre busc
 
 ### 🚀 O Que Estou Fazendo Agora
 
-* 🔭 Atualmente trabalhando em **Consulte Gestão**.
-* 🌱 Sempre aprendendo sobre **Sobre automação e desenvolvimento de api**.
+* 🔭 Atualmente trabalhando na **Cevolu**.
+* 🌱 Sempre aprendendo sobre **Automação e desenvolvimento de api**.
 * 👯 Aberto a colaborações em projetos de **Codigo aberto**.
 
 
