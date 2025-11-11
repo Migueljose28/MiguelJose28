@@ -1,4 +1,4 @@
-# 🌟 Olá, sou Miguel José! 👋
+# 🌟 Hello, I'm Miguel José! 👋
 
 Sou um entusiasta da programação e do desenvolvimento de software, sempre buscando aprender e criar soluções inovadoras. Meu foco principal é **Backend(com python, js e java), frontend(Tailwinds, react)** e estou animado para colaborar em projetos desafiadores!
 
