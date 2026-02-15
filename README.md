@@ -21,7 +21,7 @@ Alguns projetos que estou desenvolvendo:
 
 ## 🚀 No que estou trabalhando
 
-* 🌱 Aprofundando conhecimentos em **automação**, **desenvolvimento de APIs** e **impressão 3D**
+* 🌱 Aprofundando conhecimentos em **automação**, **desenvolvimento de APIs** e **desenvolvimento Full stack**
 * 👯 Aberto a colaborar em **projetos open source**
 * 💡 Sempre experimentando novas ferramentas e frameworks para melhorar meu fluxo de desenvolvimento
 
