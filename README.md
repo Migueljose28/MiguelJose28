@@ -1,66 +1,75 @@
-# 🌟 Hello, I'm Miguel José! 👋
-I'm a passionate **Full Stack Developer** who loves building creative and efficient software solutions.  
-My main focus is on **Backend** (Python, JavaScript, Java) and **Frontend** (React, TailwindCSS).  
-Always exploring new technologies and working on projects that make a real impact.
+# 🌟 Olá, eu sou Miguel José! 👋
+
+Sou um **Desenvolvedor Full Stack** apaixonado por construir soluções criativas e eficientes.
+Meu principal foco está no **Backend** (Python, JavaScript e Java), com experiência também em **Frontend** (React e TailwindCSS).
+
+Estou sempre explorando novas tecnologias e desenvolvendo projetos que gerem impacto real — seja em produtividade, automação ou acessibilidade.
 
 ---
 
-### 🚀 Saas/MicroSaas and Project
+## 🚀 SaaS / MicroSaaS e Projetos
 
-* https://www.equilimei.online/ (Django, React/typescript, ngnix)
-* https://www.stackeue.com/ (Django, React/typescript)
+Alguns projetos que estou desenvolvendo:
 
----
+* 🔹 https://www.equilimei.online/
+  *(Django • React • TypeScript • Nginx)*
 
-### 🚀 What I'm Working On
-
-* 🌱 Currently learning more about **automation**, **API development**, and **3D printing**.
-* 👯 Open to collaborating on **open-source projects**.
-* 💡 Always experimenting with new tools and frameworks to improve my development workflow.
+* 🔹 https://www.stackeue.com/
+  *(Django • React • TypeScript)*
 
 ---
 
-### 💻 Tools & Technologies I Use
+## 🚀 No que estou trabalhando
 
-I enjoy working with these technologies and tools:
+* 🌱 Aprofundando conhecimentos em **automação**, **desenvolvimento de APIs** e **impressão 3D**
+* 👯 Aberto a colaborar em **projetos open source**
+* 💡 Sempre experimentando novas ferramentas e frameworks para melhorar meu fluxo de desenvolvimento
+
+---
+
+## 💻 Ferramentas & Tecnologias
+
+Tecnologias que utilizo com frequência:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
-Here’s a quick look at my activity and most used technologies:
+Um resumo da minha atividade e das linguagens que mais utilizo:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelJose28&show_icons=true&theme=dracula&count_private=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelJose28\&show_icons=true\&theme=dracula\&count_private=true\&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJose28&layout=compact&theme=dracula&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 📬 Connect With Me
-
-Feel free to reach out:
-
-* **LinkedIn:** [linkedin.com/in/migueljose28](https://www.linkedin.com/in/migueljose28/)
-* **Email:** [miguelneto275@gmail.com](mailto:miguelneto275@gmail.com)
-* **Portfolio:** *coming soon...*
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelJose28\&layout=compact\&theme=dracula\&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### 😄 Fun Fact
+## 📬 Contato
 
-* ⚡ I’m currently developing a **DIY 3D printer (Mixel3D)** and exploring how **technology can improve accessibility**.
+Fique à vontade para entrar em contato:
+
+* 🔗 **LinkedIn:** https://www.linkedin.com/in/migueljose28/
+* 📧 **Email:** [miguelneto275@gmail.com](mailto:miguelneto275@gmail.com)
+* 🌐 **Portfólio:** em breve...
 
 ---
+
+## 😄 Curiosidade
+
+⚡ Atualmente estou desenvolvendo uma **impressora 3D DIY (Mixel3D)** e explorando como a tecnologia pode melhorar a **acessibilidade** e a produtividade.
+
+---
+
+⭐ *Sempre aprendendo, construindo e evoluindo.*
