@@ -11,10 +11,10 @@ Estou sempre explorando novas tecnologias e desenvolvendo projetos que gerem imp
 
 Alguns projetos que estou desenvolvendo:
 
-* 🔹 https://www.equilimei.online/ (Fora do ar, processo de reavaliação para 2° lançamento)
+* 🔹 https://www.equilimei.online/
   *(Django • React • TypeScript • Nginx)* 
 
-* 🔹 https://www.stackeue.com/ (Apenas frontend, processo de reavaliação para 2° lançamento)
+* 🔹 https://www.stackeue.com/
   *(Django • React • TypeScript)*
 
 ---
