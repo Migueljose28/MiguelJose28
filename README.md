@@ -9,4 +9,4 @@ Feel free to reach out:
 
 * **LinkedIn:** [linkedin.com/in/migueljose28](https://www.linkedin.com/in/migueljose28/)
 * **Email:** [miguelneto275@gmail.com](mailto:miguelneto275@gmail.com)
-* **Portfolio:** [migueljose.com](https://encurtador.com.br/RKBM)
+* **Portfolio:** [https://migueljose.com](https://portifolio-kappa-bay-55.vercel.app/?_vercel_share=vDlrZlaEcuDy9G9VE5U5Uet6t6N1E2W5))
